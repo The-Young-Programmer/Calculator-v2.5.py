@@ -5,7 +5,7 @@ import time
 
 
 print("-"*20)
-print("Welcome to calculator v2.0")
+print("Welcome to Calculator v2.5")
 print("created by TYP 👨‍💻")
 print("-"*25)
 time.sleep(1)
